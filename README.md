@@ -1,6 +1,3 @@
----
-permalink: /
----
 
 <a href="https://netec.com">
   <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300">
@@ -12,10 +9,6 @@ permalink: /
 
 Este seminario demostrativo presenta el uso de agentes especializados dentro de Microsoft 365 Copilot para apoyar actividades de planificación, coordinación de proyectos, seguimiento ejecutivo, comunicación multilingüe y recopilación de información. A través de escenarios inspirados en el entorno de Banco Agrícola, las y los participantes explorarán cómo distintos agentes pueden ayudar a optimizar procesos de negocio mediante capacidades de inteligencia artificial integradas en Microsoft 365.
 
-**Duración total:** 3 horas (24 minutos de explicación y 156 minutos de práctica).  
-**Estructura:** 6 capítulos, uno por módulo, con 25 prácticas.
-
-Antes de iniciar, consultar la [**Setup Guide general**](./setup/) para preparar las cuentas, los agentes, los permisos y los recursos de laboratorio.
 
 > **Nota:** Los ejercicios utilizan escenarios y datos de laboratorio. En el módulo 1, Project Manager Agent se presenta con su denominación actual, **Agente de Planner**. En el módulo 6, el diseño de encuestas se realiza con **Copilot en Microsoft Forms**, en lugar del antiguo agente Surveys.
 
@@ -23,9 +16,8 @@ Antes de iniciar, consultar la [**Setup Guide general**](./setup/) para preparar
 
 Cada capítulo reúne varias prácticas dentro de un único `README.md`. Seleccionar el nombre de una práctica para abrir directamente sus instrucciones.
 
-### [Capítulo 1. Project Manager Agent (Planner Agent): planificación y organización de iniciativas](./Capitulo01/)
+### Capítulo 1. Project Manager Agent (Planner Agent): planificación y organización de iniciativas
 
-**Duración del módulo:** 36 minutos (5 de explicación y 31 de práctica).
 
 #### [Práctica 1. Planificación del lanzamiento de una funcionalidad de Banca Móvil](./Capitulo01/#practica-01)
 
@@ -52,9 +44,8 @@ Cada capítulo reúne varias prácticas dentro de un único `README.md`. Selecci
 - **Descripción:** Reorganizar un proyecto ante retrasos y nuevos requerimientos, actualizar el plan en Planner y redactar un correo para comunicar los cambios a los directivos.
 - **Duración estimada:** 7 minutos.
 
-### [Capítulo 2. Project Delta Digest: consolidación de información y seguimiento ejecutivo](./Capitulo02/)
+### Capítulo 2. Project Delta Digest: consolidación de información y seguimiento ejecutivo
 
-**Duración del módulo:** 36 minutos (4 de explicación y 32 de práctica).
 
 #### [Práctica 6. Identificación de novedades en diferentes iniciativas digitales](./Capitulo02/#practica-06)
 
@@ -81,9 +72,7 @@ Cada capítulo reúne varias prácticas dentro de un único `README.md`. Selecci
 - **Descripción:** Comparar dos periodos de seguimiento e identificar avances, desviaciones, riesgos y decisiones pendientes. Crear una presentación ejecutiva de tres diapositivas.
 - **Duración estimada:** 10 minutos.
 
-### [Capítulo 3. Scrum Assistant: gestión ágil y mejora continua de equipos](./Capitulo03/)
-
-**Duración del módulo:** 36 minutos (4 de explicación y 32 de práctica).
+### Capítulo 3. Scrum Assistant: gestión ágil y mejora continua de equipos
 
 #### [Práctica 11. Planificación de un sprint para mejorar Banca Móvil](./Capitulo03/#practica-11)
 
@@ -110,7 +99,7 @@ Cada capítulo reúne varias prácticas dentro de un único `README.md`. Selecci
 - **Descripción:** Evaluar los resultados del sprint y elaborar un plan de mejora con acciones priorizadas, responsables sugeridos y criterios de cumplimiento, presentado en una infografía.
 - **Duración estimada:** 10 minutos.
 
-### [Capítulo 4. Agente de políticas de mi empresa](./Capitulo04/)
+### Capítulo 4. Agente de políticas de mi empresa
 
 **Duración del módulo:** 30 minutos (5 de explicación y 25 de práctica).
 
@@ -134,9 +123,8 @@ Cada capítulo reúne varias prácticas dentro de un único `README.md`. Selecci
 - **Descripción:** Evaluar consultas sensibles y fuera de alcance, verificando cuándo el agente responde con fuentes, solicita aclaraciones o canaliza el caso al área responsable.
 - **Duración estimada:** 10 minutos.
 
-### [Capítulo 5. Text Translator: traducción y adaptación de información para diferentes áreas del banco](./Capitulo05/)
+### Capítulo 5. Text Translator: traducción y adaptación de información para diferentes áreas del banco
 
-**Duración del módulo:** 21 minutos (3 de explicación y 18 de práctica).
 
 #### [Práctica 20. Traducción de documentación técnica de un proveedor internacional](./Capitulo05/#practica-20)
 
@@ -153,9 +141,8 @@ Cada capítulo reúne varias prácticas dentro de un único `README.md`. Selecci
 - **Descripción:** Traducir documentos técnicos, comerciales y de seguridad, resolver términos ambiguos e integrar las traducciones y un glosario bilingüe en un documento consolidado.
 - **Duración estimada:** 8 minutos.
 
-### [Capítulo 6. Agente de Encuestas: recopilación y análisis de información](./Capitulo06/)
+### Capítulo 6. Agente de Encuestas: recopilación y análisis de información
 
-**Duración del módulo:** 21 minutos (3 de explicación y 18 de práctica).
 
 #### [Práctica 23. Diseño de una encuesta de satisfacción sobre canales digitales](./Capitulo06/#practica-23)
 
@@ -181,8 +168,15 @@ Los archivos siguientes forman parte del paquete y se utilizan en las prácticas
 - [Paquete de documentación en inglés (Word)](./recursos/Paquete_Proveedor_EN.docx): prácticas 20 a 22.
 - [Respuestas de encuesta de canales digitales (Excel)](./recursos/Respuestas_Canales_Digitales.xlsx): práctica 24.
 
-Para las actividades que consultan documentos corporativos, cargar previamente los archivos indicados en la [Setup Guide](./setup/) en el sitio SharePoint del laboratorio.
+Para las actividades que consultan documentos corporativos, cargar previamente los archivos indicados en la [Setup Guide](SETUP_GUIDE.md) en el sitio SharePoint del laboratorio.
 
-## Contacto y más información
 
-Para consultas sobre el seminario, escribir a [soporte@netec.com](mailto:soporte@netec.com) o visitar [Netec](https://netec.com).
+# 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
